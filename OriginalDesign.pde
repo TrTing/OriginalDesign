@@ -1,5 +1,4 @@
-int sun= 470;
-int y= sun;
+int y= 470;
 void setup()
 {
 size (500, 500);
